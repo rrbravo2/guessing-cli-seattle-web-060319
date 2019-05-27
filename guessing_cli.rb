@@ -13,7 +13,9 @@ if user_input == "exit"
     puts "The computer guessed #{number}."
   else 
     puts "Invalid input"
-   end 
+   end
+ end
+end 
 
 
 
